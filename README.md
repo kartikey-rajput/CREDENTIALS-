@@ -2,4 +2,4 @@
 DOCUMENTING MY JOURNEY .
 
 
-📄 [View Resume](resume.md)
+📄 [View Resume](RESUME.md)
